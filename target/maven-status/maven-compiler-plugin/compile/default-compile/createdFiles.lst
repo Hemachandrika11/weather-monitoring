@@ -1,4 +1,0 @@
-com\weather\dao\SearchLogDAO.class
-com\weather\servlet\WeatherServlet.class
-com\weather\dao\WeatherDAO.class
-com\weather\dao\DBConnection.class
